@@ -1,8 +1,6 @@
-It is designed for everyone, not especially to technical background. person.
-
 Our mind is free, but our books are not. People intend to protect their authority. But if everyone abandon their authority, then everyone can share or own the new average authority. It is benefits for everyone. 
 
-On this platform, people are encouraged to reproduce other’s existing works, such as novels, papers, musics. To get this benefit,  everyone need to allow others to reproduce their works.
+On this platform (instead of "this platform" say its name), people are encouraged to reproduce other’s existing works, such as novels, papers, musics. For this benefit to exist, people must be willing to allow others to reproduce their works.
 
 As a beginner, you can import any free works and start to work on it, for instance, a pervious public paper or free novel. Otherwise, you can simply click a button, reproduce those existed you like. 
 
@@ -10,4 +8,4 @@ Then you can focus on creating works that have root in any perviously existing d
 
 The system will track all modifications by user id and allow people to merge or synchronize between different branches.
 
-Finally, everyone can use this knowledge to build paid product to their customers for free.
+Finally, everyone can use this knowledge to build paid product to their customers for free..
